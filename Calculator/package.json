@@ -1,0 +1,15 @@
+{
+  "name": "fullcalculator",
+  "version": "1.0.0",
+  "description": "first web application which make calculation on server side",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mooody",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
