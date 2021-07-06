@@ -2,4 +2,4 @@
 2. navigate to the location that you downloaded the project to
 3. Open command prompt inside that folder
 4. type: node app.js
-5. open googlechrome or Microsoft edge or any internet browser then navigate to: localhost:3000 
+5. open googlechrome or Microsoft edge or any internet browser then navigate to (put this URL): localhost:3000 
