@@ -1,0 +1,4 @@
+1. Go to : https://n0wp4.csb.app/
+2. Add notes to item list
+3. If u want to delete one of the note just click on DELETE button 
+4. Refresh the page if you want to erase everything
