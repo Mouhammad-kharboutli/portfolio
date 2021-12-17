@@ -1,0 +1,28 @@
+// TESTING REST API CALLS 
+
+// get all subscribers
+GET http://localhost:3000/api/
+
+
+// create a subscriber
+### 
+POST http://localhost:3000/api/
+Content-Type: application/json
+
+{"name":"dddddddddd",
+"subscribedToChannel":"DDDDDDDDDDD"}
+
+###
+// get a specific subscriber
+GET http://localhost:3000/api/61bb3829c33d26c2e7015a2e
+
+### 
+// update a specific subscriber 
+PATCH  http://localhost:3000/api/61bc77af78e111f48d0f083e
+Content-Type: application/json
+
+{"name":"qqqqqqqqq",
+"subscribedToChannel":"qqqqqqqqqqq"}
+
+### 
+DELETE http://localhost:3000/api/61bc739c5aedf7e8d60d56b5
