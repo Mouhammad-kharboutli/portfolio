@@ -1,0 +1,4 @@
+1. Go to : localhost/3000
+2. add and delete the items you wish to your cart items
+3. add different meals to backend list to fetch the meals menu from there.
+4. all orderes will be placed at the backend DB inside orders record

@@ -1,4 +1,2 @@
-1. Go to : https://s01pb.csb.app/
-2. Add notes to item list
-3. If u want to delete one of the note just click on DELETE button 
-4. Refresh the page if you want to erase everything
+1. Go to : localhost/3000
+2. add and delete the items you wish to your cart items
